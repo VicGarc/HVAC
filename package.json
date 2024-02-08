@@ -16,7 +16,5 @@
         "url": "https://github.com/VicGarc/HVAC/issues"
     },
     "homepage": "https://github.com/VicGarc/HVAC#readme"
-   "dependencies": {
-    "express": "^4.18.2"
-  }
+   
 }
